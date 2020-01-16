@@ -1,0 +1,15 @@
+Index: qttranslations-opensource-src/translations/qtbase_zh_CN.ts
+===================================================================
+--- qttranslations-opensource-src.orig/translations/qtbase_zh_CN.ts
++++ qttranslations-opensource-src/translations/qtbase_zh_CN.ts
+@@ -3606,6 +3606,10 @@ Please turn one of those options off.</s
+         <source>Page</source>
+         <translation>页</translation>
+     </message>
++    <message>
++        <source>Advanced</source>
++        <translation>高级</translation>
++    </message>
+ </context>
+ <context>
+     <name>QPrintSettingsOutput</name>

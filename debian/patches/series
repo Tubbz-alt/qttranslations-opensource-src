@@ -1,2 +1,3 @@
 #deepin
 add-qtbase-zh-cn.patch
+fix_translations.patch
